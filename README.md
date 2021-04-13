@@ -2,12 +2,12 @@
 
 ## Installation
 First install requirement.txt
-'''
+```bash
 pip install -r requirement.txt
-'''
+```
 
 Then, install Tensorflow API
-'''
+```bash
 git clone https://github.com/tensorflow/models.git
 
 cd models/research
@@ -19,4 +19,4 @@ python -m pip install .
 
 # Test the installation.
 python object_detection/builders/model_builder_tf2_test.py
-'''
+```
