@@ -3,27 +3,6 @@
 <img src="https://i.imgur.com/H3tUyKM.png">
 
 ## Steps
-<br />
-<b>Step 1.</b> Clone this repository: https://github.com/nicknochnack/TFODCourse
-<br/><br/>
-<b>Step 2.</b> Create a new virtual environment 
-<pre>
-python -m venv tfod
-</pre> 
-<br/>
-<b>Step 3.</b> Activate your virtual environment
-<pre>
-source tfod/bin/activate # Linux
-.\tfod\Scripts\activate # Windows 
-</pre>
-<br/>
-<b>Step 4.</b> Install dependencies and add virtual environment to the Python Kernel
-<pre>
-python -m pip install --upgrade pip
-pip install ipykernel
-python -m ipykernel install --user --name=tfodj
-</pre>
-<br/>
 <b>Step 5.</b> Collect images using the Notebook <a href="https://github.com/nicknochnack/TFODCourse/blob/main/1.%20Image%20Collection.ipynb">1. Image Collection.ipynb</a> - ensure you change the kernel to the virtual environment as shown below
 <img src="https://i.imgur.com/8yac6Xl.png"> 
 <br/>
