@@ -1,0 +1,26 @@
+<annotation>
+	<folder>thumbsup</folder>
+	<filename>thumbsup.cf651d47-9c16-11eb-afcc-b40ede715777.jpg</filename>
+	<path>D:\nghia\Tensorflow\workspace\images\collectedimages\thumbsup\thumbsup.cf651d47-9c16-11eb-afcc-b40ede715777.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thumbsup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>194</xmin>
+			<ymin>92</ymin>
+			<xmax>329</xmax>
+			<ymax>310</ymax>
+		</bndbox>
+	</object>
+</annotation>
